@@ -1,4 +1,4 @@
-package Aulas;
+package Fundamentos;
 
 // Criando números aleatórios com LOOP
 import java.util.Random;

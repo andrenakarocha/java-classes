@@ -1,4 +1,4 @@
-package Aulas;
+package Fundamentos;
 
 public class Escopo {
     public static void main(String[] args) {

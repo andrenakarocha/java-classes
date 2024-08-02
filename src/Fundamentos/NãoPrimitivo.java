@@ -1,4 +1,4 @@
-package Aulas;
+package Fundamentos;
 
 public class NãoPrimitivo {
     public static void main(String[] args) {
