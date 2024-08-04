@@ -10,7 +10,7 @@ public class User {
     // Qual a vantagem disso? Poder manipular a string da maneira que eu preferir.
     // SETTER:
     public void setFirstName(String firstName) {
-        this.firstName = firstName;
+        this.firstName = firstName.toUpperCase();
     }
 
     // GETTER:
