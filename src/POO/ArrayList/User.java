@@ -1,4 +1,4 @@
-package POO.ListasColeçãoArraylist;
+package POO.ArrayList;
 
 public class User {
     private String firstName;
