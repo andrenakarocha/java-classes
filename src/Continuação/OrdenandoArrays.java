@@ -1,8 +1,8 @@
-package Fundamentos;
+package Continuação;
 
 import java.util.Arrays;
 
-public class Ordenação {
+public class OrdenandoArrays {
     public static void main(String[] args) {
         int[] numbers = new int[]{10, 30, 20, 40, 60, 120, 869, 39009, 100};
         Arrays.sort(numbers);
