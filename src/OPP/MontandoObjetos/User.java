@@ -1,4 +1,4 @@
-package POO.MontandoObjetos;
+package OPP.MontandoObjetos;
 
 public class User {
     // Só consigo alterar as propriedades do objeto, caso a variável seja public

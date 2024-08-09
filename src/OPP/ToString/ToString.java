@@ -1,6 +1,4 @@
-package POO.ToString;
-
-import POO.ToString.User;
+package OPP.ToString;
 
 public class ToString {
     public static void main(String[] args) {

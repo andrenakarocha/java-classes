@@ -1,4 +1,4 @@
-package POO.Arrays;
+package OPP.Arrays;
 
 public class App {
 

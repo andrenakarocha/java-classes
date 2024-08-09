@@ -1,4 +1,4 @@
-package POO.SettersEGetters;
+package OPP.SettersEGetters;
 
 public class User {
     // Normalmente, no Java, mantemos as propriedades do objeto privadas e utilizamos métodos para mudar essas propriedades.

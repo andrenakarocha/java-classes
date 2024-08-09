@@ -1,4 +1,4 @@
-package POO.SettersEGetters;
+package OPP.SettersEGetters;
 
 public class App {
     public static void main(String[] args) {

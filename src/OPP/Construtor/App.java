@@ -1,4 +1,4 @@
-package POO.Construtor;
+package OPP.Construtor;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package POO.MontandoObjetos;
+package OPP.MontandoObjetos;
 
 public class App {
     public static void main(String[] args) {
